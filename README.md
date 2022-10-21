@@ -1,12 +1,12 @@
 Installation process
 
-Clone the repository
-=> git clone https://github.com/imamhosen737/Online-Task
+Clone the repository <br>
+=> git clone https://github.com/imamhosen737/Online-Task <br>
 
-Switch to the repo folder
-=> cd "project name"
+Switch to the repo folder <br>
+=> cd "project name" <br>
 
-Install all the dependencies using composer
+Install all the dependencies using composer <br>
 => composer install
 
 Copy the database name from .env file
