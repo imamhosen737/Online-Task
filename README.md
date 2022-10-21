@@ -1,4 +1,4 @@
-Installation
+Installation process
 
 Clone the repository
 git clone https://github.com/imamhosen737/Online-Task
